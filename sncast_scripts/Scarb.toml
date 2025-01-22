@@ -3,7 +3,7 @@ name = "sncast_scripts"
 version = "0.1.0"
 
 [dependencies]
-starknet = "2.8.2"
+starknet = "2.10.0-rc.1"
 sncast_std = "0.30.0"
 openzeppelin_presets = { path = "../" }
 openzeppelin_testing = { path = "../" }
